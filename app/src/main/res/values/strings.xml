@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="teamnamea">Team A</string>
+    <string name="zero">0</string>
+    <string name="btn3_label">+3 points</string>
+    <string name="btn2_label">+2 points</string>
+    <string name="btn1_label">+1 points</string>
+    <string name="reset_label">reset</string>
+
+    <string name="inputrmb">input RMB</string>
+    <string name="output">output conversion</string>
+    <string name="dollar">DOLLAR</string>
+    <string name="euro">EURO</string>
+    <string name="yen">YEN</string>
+    <string name="won">WON</string>
+    <string name="result">result</string>
+    <string name="btn_openconfig_label">open</string>
+    <string name="menu_setting_label">Settings</string>
+    <string name="btn_save_label">save</string>
+    <string name="teamnameb">Team B</string>
+    <string name="title_activity_first_list2">FirstListActivity2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+
+</resources>
